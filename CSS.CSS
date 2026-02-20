@@ -1,0 +1,16 @@
+/* skills section start */
+
+.skills-section img{
+    width: 80px;
+    height: 80px;
+}   
+
+.skills-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+}
+
+/* skills section start */
