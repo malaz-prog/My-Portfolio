@@ -240,9 +240,9 @@ section{
 /* Skill Percentages */
 .html{ width:95%; background:#ff5733; }
 .css{ width:98%; background:#2965f1; }
-.js{ width:0%; background:#f7df1e; }
-.elementor{ width:20%; background:#92003b; }
-.figma{ width:79%; background:#a259ff; }
+.js{ width:75%; background:#f7df1e; }
+.elementor{ width:80%; background:#92003b; }
+.figma{ width:98%; background:#a259ff; }
 
 /* ================= CONTACT ================= */
 .contact-section{
